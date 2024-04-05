@@ -1,16 +1,26 @@
-### Hi there 👋
+## Hi there, I'm Max Chemenda 👋 🇫🇷
 
-<!--
-**maximechemenda/maximechemenda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Well well well...
 
-Here are some ideas to get you started:
+I am a software engineer at J.P. Morgan specialised in FullStack development. I build stuff - here's my current side-project's MVP I've been working on since December 2023: https://maxijobs.co.uk 🔥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😍 Hobbies:
+- Piano (15 years) (Here's my [Youtube channel](https://youtu.be/U4XWzEIll_k?t=50))
+- Kitesurf & Wakeboard & Snowboard & Ski (~10-15 years)
+- Tennis & Table Tennis & Soccer & Freestyle soccer (~10 years)
+- Chess (~10 years)
+
+
+
+## 🧑‍💻 Top tech stacks
+
+### 🕷️ Backend
+`Python` `Flask` `SQLAlchemy` `Docker` `PostgreSQL`
+
+### 🎨 Frontend
+`React` `TypeScript` `NextJS` `Figma`
+
+### 🌎 DevOps
+`AWS` `GCP` `Kubernetes` `Vercel`
+
+Also, in case you were wondering: `Git` 🙄
