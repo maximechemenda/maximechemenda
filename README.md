@@ -18,7 +18,7 @@ I am a software engineer at J.P. Morgan specialised in FullStack development. I 
 `Python` `Flask` `SQLAlchemy` `Docker` `PostgreSQL`
 
 ### 🎨 Frontend
-`React` `TypeScript` `NextJS` `Figma`
+`React` `TypeScript` `NextJS` `TailwindCSS` `Figma`
 
 ### 🌎 DevOps
 `AWS` `GCP` `Kubernetes` `Vercel`
