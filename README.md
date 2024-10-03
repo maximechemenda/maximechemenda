@@ -2,7 +2,7 @@
 
 Well well well...
 
-I am a software engineer at J.P. Morgan specialised in FullStack development. I build stuff - here's my current side-project's MVP I've been working on since December 2023: https://maxijobs.co.uk 🔥
+I am a full stack engineer @ Replo (YC 21), previously SWE & J.P. Morgan. I build stuff - here's my current side-project's MVP I've been working on since December 2023: https://maxijobs.co.uk 🔥
 
 ## 😍 Hobbies:
 - 🎹 Piano (15 years) (Here's my [Youtube channel](https://youtu.be/U4XWzEIll_k?t=50))
@@ -16,7 +16,7 @@ I am a software engineer at J.P. Morgan specialised in FullStack development. I 
 
 ### 🕷️ Backend
 - `Python` `Flask` `SQLAlchemy`
-- `Node` `TRPC`
+- `Node` `TypeScript` `TRPC`
 - `Kafka` `Docker` `PostgreSQL` `Prisma`
 
 ### 🎨 Frontend
