@@ -23,6 +23,6 @@ I am a Full Stack engineer @ Replo (YC 21), previously SWE @ J.P. Morgan. I buil
 `React` `TypeScript` `NextJS` `TailwindCSS` `Figma`
 
 ### 🌎 DevOps
-`AWS` `GCP` `Kubernetes` `Vercel` `Cloudfare`
+`AWS` `GCP` `Kubernetes` `Vercel` `Cloudflare`
 
 Also, in case you were wondering... `Git` 🙄
