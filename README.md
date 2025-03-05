@@ -2,7 +2,7 @@
 
 Well well well...
 
-I am a Full Stack engineer @ Replo (YC 21), previously SWE @ J.P. Morgan. I build stuff - here's my current side-project's MVP I've been working on since December 2023: https://maxijobs.co.uk 🔥
+I am a Full Stack engineer @ Replo (YC 21), previously SWE @ J.P. Morgan. I build stuff - here's my current side-project's MVP I've been working on since February 2025: https://maxijobs.co.uk 🔥
 
 ## 😍 Hobbies:
 - 🎹 Piano (15 years) - [Youtube channel](https://youtu.be/U4XWzEIll_k?t=50)
