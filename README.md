@@ -1,6 +1,6 @@
 ## Hi there, I'm Max Chemenda 👋 🇫🇷
 
-Well well well...
+Well well well....
 
 I am a Full Stack engineer @ Replo (YC 21), previously SWE @ J.P. Morgan. I build stuff - here's the side-project I've been working on since February 2025: https://maxijobs.co.uk 🔥
 
