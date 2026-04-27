@@ -15,7 +15,7 @@ I am a Full Stack engineer @ Replo (YC 21), previously SWE @ J.P. Morgan. I buil
 ## 🧑‍💻 Top tech stacks
 
 ### 🕷️ Backend
-- `AI Agents` `Python` `Flask` `SQLAlchemy` 
+- `AI Agents` `Python` `Flask` `SQLAlchemy` `Durable Objects`
 - `Node` `TypeScript` `tRPC`
 - `Kafka` `Docker` `PostgreSQL` `Prisma` `ClickHouse`
 
